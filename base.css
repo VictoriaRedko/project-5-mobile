@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+}
+body {
+    padding: 95px;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(124.53deg, #FC3F5F 0%, #7D61FF 100.32%);
+    background-repeat: no-repeat;
+    color: #fff;
+}
+ul {
+    padding: 0;
+    margin: 0;
+}
+a {
+text-decoration: none;
+color: #fff;
+}
+ing {
+    max-width: 100%;
+    height: auto;
+}
+.burger-icon {
+    display: none;
+}
